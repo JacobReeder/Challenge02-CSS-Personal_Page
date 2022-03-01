@@ -10,8 +10,7 @@
     --gray: #b7bcba;
     --gray: #b7bcba;
     --link: blue;
-    --primary-color-transparent: rgba(252,225,56, 0.8);
-    --secondary-color-transparent: rgba(2, 78, 118, 0.8);
+    
   }
   
   body {
@@ -73,7 +72,7 @@
     text-shadow:none;
   }
 
-  /*********** HEADER STYLES AND LINKS ***************/
+  /*********** HEADER STYLES AND LINKS END ***************/
 
 
   
@@ -165,14 +164,6 @@
     text-align: center;
 }
 
- 
-
-
-  /*.flex-row {
-    display: flex;
-    justify-content: space-between;
-    
-  }*/
 
  /*************** SECTION AND P END *******************/
 
